@@ -1,14 +1,14 @@
 ### About me🧑:
 
-I am a professional Android/IOS developer with about 6+ years of previous experience in making native applications.<br/>
+I am a professional Android/IOS developer with about 7+ years of previous experience in making native applications.<br/>
 I will be a premium asset for engineering your envisioned concepts and applications in terms of both consumers as well as enterprise applications.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.<br/><br/>
 
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/025ce4abd8696709eaf2b7c721bcbe79d4cccacd9cdc6d54b429f5dd54789784/68747470733a2f2f7777772e746572656d2e636f6d2e61752f77702d636f6e74656e742f75706c6f6164732f323032302f30332f383030783530302d496d6167652d666f722d426c6f67732d362e706e67" width="400" height="280" />
 
-✡ I’m currently and last 3 years working on ios using SwiftUI and swift.<br/>
-✡ I have 6 years on android app development.<br/>
+✡ I’m currently and last 4 years working on ios using SwiftUI and swift.<br/>
+✡ I have 7 years on android app development.<br/>
 ✡ I am always focusing on quality and maintainability with the right project's architecture.<br/>
 ✡ Programming is also my hobby. I have few apps published on my AppStore.<br/>
 ✡ I’m looking for help with Open source Contribution.<br/><br/>
